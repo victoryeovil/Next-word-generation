@@ -1,0 +1,5 @@
+numpy
+streamlit
+keras
+keras_preprocessing
+tensorflow
